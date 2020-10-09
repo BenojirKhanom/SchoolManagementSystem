@@ -1,0 +1,5 @@
+E:\20th\SchoolManagement\SchoolManagementSystem\obj\Debug\netcoreapp3.1\SchoolManagementSystem.csprojAssemblyReference.cache
+E:\20th\SchoolManagement\SchoolManagementSystem\obj\Debug\netcoreapp3.1\SchoolManagementSystem.AssemblyInfoInputs.cache
+E:\20th\SchoolManagement\SchoolManagementSystem\obj\Debug\netcoreapp3.1\SchoolManagementSystem.AssemblyInfo.cs
+E:\20th\SchoolManagement\SchoolManagementSystem\obj\Debug\netcoreapp3.1\SchoolManagementSystem.csproj.CoreCompileInputs.cache
+E:\20th\SchoolManagement\SchoolManagementSystem\obj\Debug\netcoreapp3.1\SchoolManagementSystem.MvcApplicationPartsAssemblyInfo.cache

@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql.local",
+      "connectionId": "SchoolManagementSystemContext"
+    },
+    "mssql2": {
+      "type": "mssql.local",
+      "connectionId": "SchoolManagementSystemDbContext"
+    },
+    "mssql3": {
+      "type": "mssql.local",
+      "connectionId": "ApplicatoinDbContext"
+    }
+  }
+}
